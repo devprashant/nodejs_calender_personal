@@ -1,0 +1,25 @@
+{
+    "schedule":[
+     
+    {
+        "subject_name": "Data Structure and Algorithm (Thr) (CSE-3-G1) (SB) ",
+        "room_no": "A-212",
+        "slot": "10:10 - 11:50"
+    },
+    {
+        "subject_name": "Fundamentals of Computing (Thr) (CE-1-G2) (SS) ",
+        "room_no": "A-110",
+        "slot": "11:00 - 12:40"
+    },
+    {
+        "subject_name": "Fundamentals Of Computing (Thr) (ME-1-G2) ( )",
+        "room_no": "A-110",
+        "slot": "1:20 - 2:50"
+    },
+    {
+        "subject_name": "Software Technology (M) (Thr) (CSE-1) ( ) ",
+        "room_no": "A-212",
+        "slot": "1:20 - 2:50"
+    }
+]
+}

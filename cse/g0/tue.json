@@ -1,0 +1,25 @@
+{
+    "schedule":[
+     
+    {
+        "subject_name": "Fundamentals of Computing (Tue) (BSC-1) (MPA) ",
+        "room_no": "A-110",
+        "slot": "11:00 - 12:40"
+    },
+    {
+        "subject_name": "Numerical Methods (Tue) (CE-3-G1) (AB) ",
+        "room_no": "A-212",
+        "slot": "11:00 - 12:40"
+    },
+    {
+        "subject_name": "Fundamentals of Computing (Tue) (CSE-1-G2) (AB) ",
+        "room_no": "A-110",
+        "slot": "1:20 - 2:50"
+    },
+    {
+        "subject_name": "Numerical Methods (Tue) (ME-3-G1) (R) ",
+        "room_no": "A-212",
+        "slot": "1:20 - 2:50"
+    }
+]
+}

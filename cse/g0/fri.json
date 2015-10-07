@@ -1,0 +1,30 @@
+{
+    "schedule":[
+     
+    {
+        "subject_name": "Fundamentals of Computing (Fri) (CE-1-G3) ( ) ",
+        "room_no": "A-110",
+        "slot": "11:00 - 12:40"
+    },
+    {
+        "subject_name": "Object Oriented Programming (Fri) (CSE-5-G1) (KA) ",
+        "room_no": "A-212",
+        "slot": "11:00 - 12:40"
+    },
+    {
+        "subject_name": "Fundamentals Of Computing (Fri) (ME-1-G1) ( )",
+        "room_no": "A-110",
+        "slot": "1:20 - 2:50"
+    },
+    {
+        "subject_name": "Data Structure and Algorithm (Fri) (CSE-3-G3) ( )",
+        "room_no": "A-212",
+        "slot": "1:20 - 2:50"
+    },
+    {
+        "subject_name": "Programming in C (M) (Fri) (MSC) ( )",
+        "room_no": "A-212",
+        "slot": "2:50 - 4:20"
+    }
+]
+}
