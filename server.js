@@ -102,7 +102,7 @@ switch(day){
         readFile(path.normalize(__dirname + joinedPath +'/fri.json'));
         break;
     case 6:
-        readFile(path.normalize(__dirname + joinedPath +'/sat.json'));
+        readFile(path.normalize(__dirname + joinedPath +'/mon.json'));
         break;
     case 7:
         readFile(path.normalize(__dirname + joinedPath +'/mon.json'));
